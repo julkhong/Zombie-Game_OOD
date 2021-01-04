@@ -22,16 +22,16 @@ click [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downlo
 
 2) Install an IDE
 
-To install [Eclipse](https://www.eclipse.org/downloads/packages/installer) or install [Intellij](https://treehouse.github.io/installation-guides/windows/intellij-idea-win.html)
+To install [Eclipse](https://www.eclipse.org/downloads/packages/installer) or install [Intellij](https://treehouse.github.io/installation-guides/windows/intellij-idea-win.html).
 
 3) Install Git
 
-Click on the link
+Click on the link.
 http://git-scm.com/download/win
 
 4) Next step
 
-restart your computer
+restart your computer.
 
 
 
