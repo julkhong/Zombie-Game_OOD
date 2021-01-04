@@ -14,7 +14,24 @@ This is a simple zombie game where it's run in the console. Everything is repres
 
 
 ## Setup
-No specific requirements, but Java version must be > 8
+### Windows
+
+1) Install Java
+
+click [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) and download Java for Windows.
+
+2) Install an IDE
+
+To install [Eclipse](https://www.eclipse.org/downloads/packages/installer) or install [Intellij](https://treehouse.github.io/installation-guides/windows/intellij-idea-win.html)
+
+3) Install Git
+
+Click on the link
+http://git-scm.com/download/win
+
+4) Next step
+
+restart your computer
 
 
 
