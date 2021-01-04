@@ -26,8 +26,8 @@ To install [Eclipse](https://www.eclipse.org/downloads/packages/installer) or in
 
 3) Install Git
 
-Click on the link.
-http://git-scm.com/download/win
+Click on the link
+http://git-scm.com/download/win.
 
 4) Next step
 
