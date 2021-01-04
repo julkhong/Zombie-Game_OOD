@@ -12,6 +12,11 @@
 ## General info
 This is a simple zombie game where it's run in the console. Everything is represented with char. The main purpose of this project is to apply the design principles, logics and technique on the OOP language. 
 
+## Screenshots
+<img src="https://user-images.githubusercontent.com/70477671/103507456-2f465280-4e9a-11eb-8fa7-bf87d1692d36.png" width="700" height="490">
+<img src="https://user-images.githubusercontent.com/70477671/103507459-30777f80-4e9a-11eb-84f3-8bd325b107a0.png" width="700" height="490">
+<img src="https://user-images.githubusercontent.com/70477671/103507461-31101600-4e9a-11eb-9e84-c8c69fc439f9.png" width="700" height="490">
+
 
 ## Setup
 ### Windows
