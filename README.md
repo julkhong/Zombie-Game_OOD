@@ -62,7 +62,7 @@ Project is:  _finished_ but can be updated anytime
 project based on a uni project
 
 ## Contact
-Created by Jun Ming Khong. 
+Created by Jun Ming Khong (Julian). 
 Feel free to send me a mail!
  officialkhong@gmail.com 
 
